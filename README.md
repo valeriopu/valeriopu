@@ -2,10 +2,7 @@
 Hi there! 👋
 </p>
 
-I'm Valerio Pugliese 🍋, a `Biomedical Engineering` student at Politecnico di Torino. I am currently working on my master thesis about prognostic patient monitoring through Artificial Intelligence at `The Netherlands Cancer Institute` (Amsterdam, NL).
-In my repositories you will find the most interesting projects carried out during my studies: these involve various areas, such as biomedical image processing, rehabilitation engineering or neuroengineering. 
-
-In a nutshell, I'm just a sicilian kiddo who is looking for his place in the world.
+I'm Valerio Pugliese 🍋, a `Biomedical Engineer` graduated at Politecnico di Torino. I am currently a PhD student in Artificial Intelligence at `The Netherlands Cancer Institute` (Amsterdam, NL), in the departments of Radiology and Thoracic Oncology. My doctoral program will focus on the development and application of AI strategies to improve the diagnosis and the follow-up of oncological patients affected by malignant pleural mesothelioma. In my repositories you will find the most interesting projects I worked on: these involve various areas, such as biomedical image processing, rehabilitation engineering or neuroengineering. 
 
 <p align="center">
 How to reach me:
